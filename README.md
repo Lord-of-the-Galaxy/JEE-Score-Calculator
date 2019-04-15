@@ -2,7 +2,7 @@
 Calculate your JEE Mains score (marks)
 
 ## Requirements:
-Python 3.5+ (tested) or Python 3+ (untested)
+Python 3.5+ (tested) or Python 3+ (untested)  
 BeautifulSoup (bs4)
 
 ## How to use:
